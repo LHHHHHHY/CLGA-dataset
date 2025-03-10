@@ -1,0 +1,1 @@
+In a three-dimensional XYZ space, 10 Defenders and 10 Intruders are placed. The positions of the Defenders are stored as a (10, 3) matrix, and similarly, the positions of the Intruders are represented as another (10, 3) matrix. The goal is to match each Defender to an Intruder in such a way that the total Euclidean distance across all pairs is minimized.

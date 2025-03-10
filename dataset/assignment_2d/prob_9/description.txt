@@ -1,0 +1,1 @@
+In a two-dimensional coordinate plane (XY), there are 10 Defenders and 10 Intruders, and their positions are given by two separate (10, 2) matrices. The goal is to pair each Defender with an Intruder to minimize the total Euclidean distance between all the paired agents.

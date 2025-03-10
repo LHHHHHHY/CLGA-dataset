@@ -1,0 +1,1 @@
+In a 2D XY coordinate system, there are 10 Defenders and 10 Intruders, each having their positions stored in a (10, 2) matrix. The objective is to pair each Defender with an Intruder such that the total Euclidean distance between the paired agents is minimized.

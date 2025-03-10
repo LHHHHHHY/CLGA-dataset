@@ -1,0 +1,1 @@
+In a three-dimensional space (XYZ), two groups of agents, Defenders and Intruders, each consisting of 10 agents, are assigned positions that are represented as (10, 3) matrices. The objective is to pair each Defender with an Intruder to minimize the total Euclidean distance between them.

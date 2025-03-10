@@ -1,0 +1,1 @@
+In a two-dimensional coordinate system, there are 10 Defenders and 10 Intruders. Their positions are represented as two (10, 2) matrices. The goal is to find the optimal pairing between the two groups to minimize the total Euclidean distance between all the pairs.

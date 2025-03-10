@@ -1,0 +1,1 @@
+In a 3D Cartesian coordinate system, there are two groups of agents: Defenders and Intruders, each with 10 members. The positions of all agents are stored in separate (10, 3) matrices, and the goal is to pair the Defenders with the Intruders to minimize the total Euclidean distance.

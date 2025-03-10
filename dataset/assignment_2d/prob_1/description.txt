@@ -1,0 +1,1 @@
+In a 2D XY coordinate system, there are 10 Defenders and 10 Intruders. The positions of the Defenders are given in a (10, 2) matrix, and the positions of the Intruders are given in another (10, 2) matrix. The goal is to find the optimal pairing between the two groups so that the sum of the Euclidean distances between each pair is minimized.

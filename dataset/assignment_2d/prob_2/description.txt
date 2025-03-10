@@ -1,0 +1,1 @@
+In a two-dimensional XY space, 10 Defenders and 10 Intruders are positioned. Their positions are represented by two separate (10, 2) matrices. The task is to pair each Defender with an Intruder to minimize the total Euclidean distance between the pairs.

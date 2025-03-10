@@ -1,0 +1,1 @@
+In a 2D XY plane, 10 Defenders and 10 Intruders are represented by two (10, 2) matrices of positions. The objective is to pair each Defender with an Intruder such that the total Euclidean distance between the pairs is minimized.

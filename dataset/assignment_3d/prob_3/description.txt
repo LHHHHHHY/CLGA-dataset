@@ -1,0 +1,1 @@
+In a three-dimensional XYZ environment, there are two types of agents: Defenders and Intruders, each consisting of 10 agents. The position of each Defender is given as a row in a (10, 3) matrix, and the same format is used for the positions of the Intruders. The goal is to pair each Defender with an Intruder so that the total Euclidean distance between them is minimized.

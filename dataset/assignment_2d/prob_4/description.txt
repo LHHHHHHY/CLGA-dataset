@@ -1,0 +1,1 @@
+In a two-dimensional XY coordinate system, there are two types of agents: Defenders and Intruders, each consisting of 10 agents. The positions of the Defenders and Intruders are represented as (10, 2) matrices, and the goal is to pair them in a way that minimizes the total Euclidean distance between all pairs.

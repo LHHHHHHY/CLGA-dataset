@@ -1,0 +1,1 @@
+In a three-dimensional XYZ space, the positions of 10 Defenders and 10 Intruders are represented as two (10, 3) matrices. The objective is to pair each Defender with an Intruder such that the total Euclidean distance between all pairs is as small as possible.

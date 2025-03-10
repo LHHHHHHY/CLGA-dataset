@@ -1,0 +1,1 @@
+In a 3D XYZ coordinate system, there are 10 Defenders and 10 Intruders. The positions of the Defenders and Intruders are represented as two separate (10, 3) matrices. The task is to pair each Defender with an Intruder in such a way that the total Euclidean distance between all the pairs is minimized.

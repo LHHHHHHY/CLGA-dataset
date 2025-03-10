@@ -1,0 +1,1 @@
+In a 2D XY coordinate system, the positions of 10 Defenders and 10 Intruders are stored in separate (10, 2) matrices. The task is to pair each Defender with an Intruder such that the total Euclidean distance is minimized.

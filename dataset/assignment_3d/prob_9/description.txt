@@ -1,0 +1,1 @@
+In a 3D Cartesian space, there are 10 Defenders and 10 Intruders, and their positions are represented by two (10, 3) matrices. The task is to pair each Defender with an Intruder in such a way that the total Euclidean distance between all paired agents is minimized.
